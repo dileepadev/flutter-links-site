@@ -6,8 +6,7 @@ class TextSectionHead extends StatelessWidget {
   final String title;
   final String subtitle;
 
-  const TextSectionHead({Key? key, required this.title, required this.subtitle})
-      : super(key: key);
+  const TextSectionHead({super.key, required this.title, required this.subtitle});
 
   @override
   Widget build(BuildContext context) {

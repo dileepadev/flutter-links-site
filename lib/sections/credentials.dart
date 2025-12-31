@@ -7,7 +7,7 @@ import '../widgets/card_profile.dart';
 import '../widgets/text_section_head.dart';
 
 class Credentials extends StatelessWidget {
-  const Credentials({Key? key}) : super(key: key);
+  const Credentials({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -7,7 +7,7 @@ import '../widgets/card_profile.dart';
 import '../widgets/text_section_head.dart';
 
 class WebDomains extends StatelessWidget {
-  const WebDomains({Key? key}) : super(key: key);
+  const WebDomains({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -34,33 +34,39 @@ class WebDomains extends StatelessWidget {
             CardProfile(
               type: 'logo',
               widget: 'logo',
-              title: 'Dileepa Bandara | Profile',
+              title: 'Flutter Portfolio Site',
               url: DataValues.profileURL,
             ),
             CardProfile(
               type: 'logo',
               widget: 'logo',
-              title: 'Dileepa Bandara | Toolkit',
-              url: DataValues.toolkitURL,
+              title: 'Flutter Links Site',
+              url: DataValues.linksURL,
             ),
             CardProfile(
               type: 'logo',
               widget: 'logo',
-              title: 'Dileepa Bandara | Volunteering',
-              url: DataValues.volunteeringURL,
+              title: 'Flutter Toolkit Site',
+              url: DataValues.toolkitURL,
             ),
+            // CardProfile(
+            //   type: 'logo',
+            //   widget: 'logo',
+            //   title: 'Dileepa Bandara | Volunteering',
+            //   url: DataValues.volunteeringURL,
+            // ),
             CardProfile(
               type: 'logo',
               widget: 'logo',
               title: 'Dileepa Bandara | Blog',
               url: DataValues.blogURL,
             ),
-            CardProfile(
-              type: 'logo',
-              widget: 'logo',
-              title: 'Dileepa Bandara | TechDiary',
-              url: DataValues.techDiaryURL,
-            ),
+            // CardProfile(
+            //   type: 'logo',
+            //   widget: 'logo',
+            //   title: 'Dileepa Bandara | TechDiary',
+            //   url: DataValues.techDiaryURL,
+            // ),
           ],
         ),
       ),
