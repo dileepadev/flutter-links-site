@@ -14,7 +14,7 @@
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/dileepadev/flutter-links-site/total?color=4a2600&label=Total%20Downloads&style=flat-square)
 ![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fflutter-links-site)
 
-![Preview Image](https://dileepadev.github.io/images/flutter-links-site/preview.png)
+![Preview Image](https://dileepadev.github.io/images/flutter-links-site/preview.gif)
 
 ## ✨ About
 
@@ -100,6 +100,11 @@ Web Build
 - Move the build files to a server such as localhost, GitHub Pages, or any other http/https web
   server.
 - Set up and run the index.html file.
+- Build the project using `flutter build web` command and deploy it to any web server.
+
+  ```bash
+  flutter build web --base-href /flutter-links-site/
+  ```
 
 ## 🖼️ Icons and Images
 
