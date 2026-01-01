@@ -45,7 +45,7 @@ Deployed Website: <https://dileepadev.github.io/flutter-links-site>
 > | Initial release | v0.1.0 | March 14, 2022 |
 > | First release | v1.0.0 | January 15, 2023 |
 > | Feature release 1 | v1.1.0 | February 17, 2023 |
-> | Feature release 2 | v1.2.0 | December 31, 2025 |
+> | Feature release 2 | v1.2.0 | January 1, 2026 |
 >
 ### 🎉 View all releases
 
