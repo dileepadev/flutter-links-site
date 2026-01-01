@@ -7,7 +7,7 @@ import '../widgets/card_profile.dart';
 import '../widgets/text_section_head.dart';
 
 class Blog extends StatelessWidget {
-  const Blog({Key? key}) : super(key: key);
+  const Blog({super.key});
 
   @override
   Widget build(BuildContext context) {

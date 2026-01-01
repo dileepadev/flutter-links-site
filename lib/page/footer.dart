@@ -5,7 +5,7 @@ import '../statics/data_values.dart';
 import '../theme/app_theme_data.dart';
 
 class Footer extends StatelessWidget {
-  const Footer({Key? key}) : super(key: key);
+  const Footer({super.key});
 
   Widget getSourceCode(BuildContext context) {
     return MouseRegion(

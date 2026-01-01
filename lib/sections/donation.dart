@@ -7,7 +7,7 @@ import '../widgets/card_profile.dart';
 import '../widgets/text_section_head.dart';
 
 class Donation extends StatelessWidget {
-  const Donation({Key? key}) : super(key: key);
+  const Donation({super.key});
 
   @override
   Widget build(BuildContext context) {
