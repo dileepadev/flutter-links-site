@@ -1,18 +1,11 @@
 # Flutter Links Site
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/dileepadev/flutter-links-site?color=d62936&label=Repo%20Size&style=flat-square)
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/dileepadev/flutter-links-site?color=e6a400&label=Code%20Size&style=flat-square)
-![GitHub License](https://img.shields.io/github/license/dileepadev/flutter-links-site?color=eb7005&label=License&style=flat-square)
-![Total Code Lines](https://img.shields.io/tokei/lines/github/dileepadev/flutter-links-site?color=805b3c&label=Total%20Code%20Lines&style=flat-square)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/dileepadev/flutter-links-site?color=138a3d&label=Commit%20Activity&style=flat-square)
-![GitHub Language Count](https://img.shields.io/github/languages/count/dileepadev/flutter-links-site?color=1f77b4&label=Total%20Languages&style=flat-square)
-![GitHub Top Language](https://img.shields.io/github/languages/top/dileepadev/flutter-links-site?color=7f0c7f&label=Top%20Language&style=flat-square)
-![GitHub Issues](https://img.shields.io/github/issues/dileepadev/flutter-links-site?color=098f76&label=GitHub%20Issues&style=flat-square)
-![GitHub Pull Erequests](https://img.shields.io/github/issues-pr/dileepadev/flutter-links-site?color=2c324f&label=GitHub%20Pull%20Requests&style=flat-square)
-![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/dileepadev/flutter-links-site/main?color=0c22ed&label=CodeFactor%20Grade&style=flat-square)
-![GitHub Latest Release](https://img.shields.io/github/v/release/dileepadev/flutter-links-site?color=f5426f&label=Latest%20Release&style=flat-square)
-![GitHub Total Downloads](https://img.shields.io/github/downloads/dileepadev/flutter-links-site/total?color=4a2600&label=Total%20Downloads&style=flat-square)
-![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fflutter-links-site)
+![GitHub repo size](https://img.shields.io/github/repo-size/dileepadev/flutter-links-site?color=d62936&label=Repo%20Size)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepadev/flutter-links-site?color=blue&label=Code%20Size)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepadev/flutter-links-site?color=eb7005&label=Commit%20Activity)
+![GitHub last commit](https://img.shields.io/github/last-commit/dileepadev/flutter-links-site?color=2a4a75&label=Last%20Commit)
+![Website status](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fdileepadev.github.io%2Fflutter-links-site&label=Website&color=006400)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dileepadev/flutter-links-site?color=ff4081&label=Latest%20Release)
 
 ![Preview Image](https://dileepadev.github.io/images/flutter-links-site/preview.gif)
 
@@ -45,7 +38,7 @@ Deployed Website: <https://dileepadev.github.io/flutter-links-site>
 > | Initial release | v0.1.0 | March 14, 2022 |
 > | First release | v1.0.0 | January 15, 2023 |
 > | Feature release 1 | v1.1.0 | February 17, 2023 |
-> | Feature release 2 | v1.2.0 | January 5, 2026 |
+> | Feature release 2 | v1.2.0 | January 6, 2026 |
 >
 ### 🎉 View all releases
 
